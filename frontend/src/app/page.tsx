@@ -44,7 +44,7 @@ export default function Home() {
           <h1 className="text-xl font-bold text-slate-900">
             Prelegal
             <span className="text-sm font-normal text-slate-500 ml-2">
-              Mutual NDA Creator
+              Mutual NDA Creator Ashwin
             </span>
           </h1>
           {view === "preview" && (
